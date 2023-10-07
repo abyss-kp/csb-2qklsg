@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abyss-kp.github.io/csb-2qklsg/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://abyss-kp.github.io/csb-2qklsg/static/js/main.d9c570d1.chunk.js",
+    "main.js.map": "https://abyss-kp.github.io/csb-2qklsg/static/js/main.d9c570d1.chunk.js.map",
+    "runtime-main.js": "https://abyss-kp.github.io/csb-2qklsg/static/js/runtime-main.aae9bb6b.js",
+    "runtime-main.js.map": "https://abyss-kp.github.io/csb-2qklsg/static/js/runtime-main.aae9bb6b.js.map",
+    "static/js/2.177ce3bf.chunk.js": "https://abyss-kp.github.io/csb-2qklsg/static/js/2.177ce3bf.chunk.js",
+    "static/js/2.177ce3bf.chunk.js.map": "https://abyss-kp.github.io/csb-2qklsg/static/js/2.177ce3bf.chunk.js.map",
+    "index.html": "https://abyss-kp.github.io/csb-2qklsg/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://abyss-kp.github.io/csb-2qklsg/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.177ce3bf.chunk.js.LICENSE.txt": "https://abyss-kp.github.io/csb-2qklsg/static/js/2.177ce3bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae9bb6b.js",
+    "static/js/2.177ce3bf.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d9c570d1.chunk.js"
+  ]
+}
